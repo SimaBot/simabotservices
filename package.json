@@ -1,0 +1,19 @@
+{
+  "name": "simabotservices",
+  "version": "0.0.1",
+  "description": "Sevices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimaBot/simabotservices.git"
+  },
+  "author": "GooseSima",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SimaBot/simabotservices/issues"
+  },
+  "homepage": "https://github.com/SimaBot/simabotservices#readme"
+}
